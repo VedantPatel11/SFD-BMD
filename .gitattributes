@@ -1,0 +1,21 @@
+# Set default behaviour to automatically normalize line endings
+* text=auto
+
+# Source code
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.bat text eol=crlf
+*.sh text eol=lf
+
+# Jupyter Notebooks
+*.ipynb text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.docx binary
+*.doc binary

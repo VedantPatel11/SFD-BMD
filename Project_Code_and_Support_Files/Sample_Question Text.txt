@@ -1,0 +1,16 @@
+Example 4.7. Draw the shear force and bending moment diagrams for the beam shown in Fig. 4.24(a). Clearly mark the position of the maximum bending moment and determine its magnitude.
+
+Beam description (Fig. 4.24(a)):
+
+- Simply supported beam AB of total length 6 m.
+- Support reactions: RA = 3.5 kN (upward) at A, RB = 5.5 kN (upward) at B.
+- Point loads and UDL:
+  - Concentrated load of 1 kN (downward) at point C.
+  - Uniformly distributed load (UDL) of 2 kN/m acting downward from D to E (shown as a wavy/coil-like load).
+  - Concentrated load of 4 kN (downward) at point F.
+- Segment lengths (left to right):
+  - A to C = 1 m
+  - C to D = 1 m
+  - D to E = 2 m
+  - E to F = 1 m
+  - F to B = 1 m
